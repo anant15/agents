@@ -3,12 +3,33 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "python.pythonPath": "${workspaceFolder}/.venv/bin/python",
   "python.formatting.provider": "black",
+  
+  // ADHD-Friendly Settings
+  "editor.fontSize": 15,
+  "editor.fontFamily": "'Monaco', 'Menlo', monospace",
+  "editor.lineHeight": 1.8,
+  "editor.letterSpacing": 0.5,
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.indentation": true,
+  
+  "notebook.lineNumbers": "on",
+  "notebook.showCellStatusBar": "visible",
+  "notebook.cellToolbarLocation": "right",
+  
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.lineHeight": 1.5,
+  
   "terminal.integrated.env.osx": {
     "OPENROUTER_API_KEY": "",
     "OPENAI_API_KEY": ""
   },
   "files.exclude": {
     "**/__pycache__": true,
-    "**/.venv": true
+    "**/.venv": true,
+    "**/.pytest_cache": true,
+    "**/.mypy_cache": true
   }
 }

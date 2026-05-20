@@ -13,17 +13,17 @@
 **Objective:** Understand agent fundamentals and problem-solving patterns
 
 ### Labs
-- [ ] **Lab 1** - [1_lab1.ipynb](1_foundations/1_lab1.ipynb) - *Agent Basics*
-- [ ] **Lab 2** - [1_lab2.ipynb](1_foundations/2_lab2.ipynb) - *Function Calling*
-- [ ] **Lab 3** - [1_lab3.ipynb](1_foundations/3_lab3.ipynb) - *Parallel Execution*
-- [ ] **Lab 4** - [1_lab4.ipynb](1_foundations/4_lab4.ipynb) - *Advanced Patterns*
-- [ ] **Extra** - [5_extra.ipynb](1_foundations/5_extra.ipynb) - *Challenge Problems*
+- [x] **Lab 1** - [1_lab1.ipynb](1_foundations/1_lab1.ipynb) - *Agent Basics*
+- [x] **Lab 2** - [1_lab2.ipynb](1_foundations/2_lab2.ipynb) - *Function Calling*
+- [x] **Lab 3** - [1_lab3.ipynb](1_foundations/3_lab3.ipynb) - *Parallel Execution*
+- [x] **Lab 4** - [1_lab4.ipynb](1_foundations/4_lab4.ipynb) - *Advanced Patterns*
+- [x] **Extra** - [5_extra.ipynb](1_foundations/5_extra.ipynb) - *Challenge Problems*
 
 ### Key Concepts
-- [ ] Agent definition and architecture
-- [ ] Function calling patterns
-- [ ] Tool integration
-- [ ] Prompt engineering basics
+- [x] Agent definition and architecture
+- [x] Function calling patterns
+- [x] Tool integration
+- [x] Prompt engineering basics
 
 ### Notes
 _Add your learnings here_
