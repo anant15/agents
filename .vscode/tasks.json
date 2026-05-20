@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run Python example",
+      "type": "shell",
+      "command": ".venv/bin/python 1_foundations/app.py",
+      "group": "build",
+      "presentation": { "reveal": "always" }
+    },
+    {
+      "label": "Run Node example",
+      "type": "shell",
+      "command": "node node-agent/index.js",
+      "group": "build",
+      "presentation": { "reveal": "always" }
+    }
+  ]
+}

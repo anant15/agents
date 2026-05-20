@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ms-azuretools.vscode-docker",
+    "humao.rest-client",
+    "mhutchie.git-graph",
+    "redhat.vscode-yaml",
+    "github.vscode-pull-request-github"
+  ]
+}
