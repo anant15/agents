@@ -35,15 +35,15 @@ _Add your learnings here_
 **Objective:** Master official OpenAI agent orchestration and autonomous research
 
 ### Labs
-- [ ] **Lab 1** - [1_lab1.ipynb](2_openai/1_lab1.ipynb) - *Hello World & Tracing*
+- [x] **Lab 1** - [1_lab1.ipynb](2_openai/1_lab1.ipynb) - *Hello World & Tracing*
 - [ ] **Lab 2** - [2_lab2.ipynb](2_openai/2_lab2.ipynb) - *Agent Orchestration*
 - [ ] **Lab 3** - [3_lab3.ipynb](2_openai/3_lab3.ipynb) - *Autonomous Research*
 - [ ] **Lab 4** - [4_lab4.ipynb](2_openai/4_lab4.ipynb) - *Advanced Patterns*
 
 ### Key Concepts
-- [ ] OpenAI Agents SDK fundamentals
-- [ ] Model selection and routing
-- [ ] Trace visualization and debugging
+- [x] OpenAI Agents SDK fundamentals
+- [x] Model selection and routing
+- [x] Trace visualization and debugging
 - [ ] Autonomous research workflows
 - [ ] Tool handoff patterns
 
