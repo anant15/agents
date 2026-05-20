@@ -7,6 +7,7 @@ from pypdf import PdfReader
 import gradio as gr
 
 
+
 load_dotenv(override=True)
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
